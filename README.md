@@ -1,19 +1,19 @@
 ## 📜 Cisco Certificate
-👉 [View Certificate](CiscoCertificate.pdf)
+👉 [View Certificate](CiscoCertificate)
 
 ---
 
 ## 📝 CodeTantra (Practical 1–5)
-👉 [Open Practicals PDF](codetantra_practicals.pdf)
+👉 [Open Practicals PDF](codetantra_practicals)
 
 ---
 
 ## 🔗 CodeTantra Completion Link
-👉 [Click to open completion page](https://example.com)
+👉 [Click to open completion page](CodeTantra_Completion_Link)
 
 ---
 
 ## 🎥 Video Demonstration
-👉 [Watch Video Demo](https://youtube.com/watch?v=xxxxxxx)
+👉 [Watch Video Demo](Video_Demonstration_Link)
 
 ---
