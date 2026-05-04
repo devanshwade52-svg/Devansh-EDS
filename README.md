@@ -19,4 +19,4 @@
 ---
 
 ## 📸 100% Completion Proof
-![Completion Screenshot](100%completion.png)
+👉 [Completion Screenshot](100%completion.png)
