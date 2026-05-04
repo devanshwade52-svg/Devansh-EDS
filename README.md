@@ -1,10 +1,10 @@
 ## 📜 Cisco Certificate
-👉 [View Certificate](CiscoCertificate)
+👉 [View Certificate](CiscoCertificate.pdf)
 
 ---
 
 ## 📝 CodeTantra (Practical 1–5)
-👉 [Open Practicals PDF](codetantra_practicals)
+👉 [Open Practicals PDF](Codetantra_ss.pdf)
 
 ---
 
