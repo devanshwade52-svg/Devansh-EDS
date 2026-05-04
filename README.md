@@ -9,11 +9,11 @@
 ---
 
 ## 🔗 CodeTantra Completion Link
-👉 [Click to open completion page](https://mitaoe.codetantra.com/secure/course.jsp?eucId=698c54860aba96214c8b7d5e)
+👉 [Click to open completion page](CodeTantra_Completion_Link)
 
 ---
 
 ## 🎥 Video Demonstration
-👉 [Watch Video Demo](https://youtu.be/C9tYAa5mQm4?si=YtfEa73m3yLhu3yG)
+👉 [Watch Video Demo](Video_Demonstration_Link)
 
 ---
