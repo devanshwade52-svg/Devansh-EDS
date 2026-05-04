@@ -1,5 +1,5 @@
 ## 📜 Cisco Certificate
-👉 [View Certificate](Cisco Certificate.pdf)
+👉 [View Certificate](CiscoCertificate.pdf)
 
 ---
 
